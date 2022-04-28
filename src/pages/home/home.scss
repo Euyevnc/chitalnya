@@ -1,0 +1,13 @@
+.home {
+  height: 200vh;
+
+  &__preview {
+    width: 100%;
+    height: 50vh;
+    background-image: url('../../assets/bgs/main.jpg');
+    background-repeat: no-repeat;
+    background-position: center 20%;
+    background-size: cover;
+    background-attachment: local;
+  }
+}
